@@ -1,5 +1,7 @@
 # Chess Academy
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 A chess learning app in plain HTML, CSS and JavaScript. No build step.
 
 ## Status: Phase 1 of 7
@@ -21,3 +23,7 @@ Open `index.html` in a browser, or serve the folder:
 ## Structure
 `index.html`, `css/` (style, animations, responsive), `js/` (content, storage, progress, navigation, app), `manifest.json`.
 Progress is stored in `localStorage` under `chessAcademy.v1`.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
